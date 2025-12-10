@@ -6,6 +6,7 @@ const product = {
   },
 };
 
+// コンストラクタ
 product.sayDescription();
 class Product {
   constructor(name, price) {
